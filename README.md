@@ -1,3 +1,5 @@
+Данный проект позволяет загружать информацию о ракетах и полетах ракет SpaceX.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
